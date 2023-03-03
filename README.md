@@ -229,8 +229,39 @@ un circuito resonante dispuesto en paralelo utilizado en una configuración rech
 
 # 5.CONCLUSIONES
 
-* 
+* XL y XC tienen efectos opuestos en un circuito RLC.
 
+* En un circuito RLC dispuesto en serie, la reactancia más grande determina la reactancia neta del circuito.
+
+* En condición de resonancia en serie, las reactancias inductiva y capacitiva son iguales.
+
+* La impedancia de un circuito RLC en serie es puramente resistiva en condición de resonancia.
+
+* En un circuito RLC en serie, la corriente es máxima en condición de resonancia.
+
+* Los voltajes reactivos VL y VC se eliminan en condición de resonancia en un circuito RLC en serie porque son iguales en magnitud y están desfasados por 180°.
+
+* En un circuito RLC en paralelo, la reactancia más pequeña determina la reactancia neta del circuito.
+
+* En un circuito resonante en paralelo, la impedancia es máxima a la frecuencia resonante.
+
+* Un circuito resonante en paralelo comúnmente se llama circuito tanque.
+
+* Cuatro categorías de filtros pasivos, de acuerdo con sus características de respuesta, son: pasabajas, pasaaltas, pasabanda y rechazabanda.
+
+* En un filtro RC pasabajas, el voltaje de salida se toma a través del capacitor y la salida se retrasa con respecto a la entrada.
+
+* En un filtro RL pasabajas, el voltaje de salida se toma a través del resistor y la salida se retrasa con respecto a la entrada.
+
+* En un filtro RC pasaaltas, la salida se toma a través del resistor y la salida se adelanta a la entrada.
+
+* En un filtro RL pasaaltas, la salida se toma a través del inductor y la salida se adelanta a la entrada.
+
+* La pendiente decreciente de un filtro RC o RL es de –20 dB por década.
+
+* Un filtro pasabanda deja pasar frecuencias localizadas entre las frecuencias críticas baja y alta y rechaza todas las demás.
+
+* Un filtro rechazabanda rechaza frecuencias ubicadas entre sus frecuencias críticas baja y alta y deja pasar todas las demás.
 
 # 6.BIBLIOGRAFÍA
 
