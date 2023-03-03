@@ -185,50 +185,43 @@ un circuito resonante dispuesto en paralelo utilizado en una configuración rech
 
 # CAPITULO 17 : -Ejercicios pares
 
-![17 1](https://user-images.githubusercontent.com/117534483/222612560-85e7963d-a28f-4727-860f-36e31399909a.png)
+![17 1](https://user-images.githubusercontent.com/117534483/222614284-5380c3ae-c454-451e-ae28-c8f8fd95fdd1.jpg)
 
-![17 2](https://user-images.githubusercontent.com/117534483/222612563-9d6996cc-842c-482c-a35d-f0358c440087.png)
+![17 2](https://user-images.githubusercontent.com/117534483/222614286-5906f03c-ad64-4620-ae49-bc072f967c23.jpg)
 
-![17 3](https://user-images.githubusercontent.com/117534483/222612564-94f604fa-60aa-4c8c-accc-a002e4b4f271.png)
+![17 3](https://user-images.githubusercontent.com/117534483/222614288-a6d12c72-b5c1-4de9-8d8d-f7812e8fadde.jpg)
 
-![17 4](https://user-images.githubusercontent.com/117534483/222612566-300d828b-d63d-43c6-b4aa-29c913379918.png)
+![17 4](https://user-images.githubusercontent.com/117534483/222614290-2c71c373-63b0-4c2e-8d8a-9e86fb425783.jpg)
 
-![17 5](https://user-images.githubusercontent.com/117534483/222612567-4ae13fe6-e862-430f-b9ae-e0365b2a782b.png)
+![17 5](https://user-images.githubusercontent.com/117534483/222614291-f4058efc-cd99-4922-99ce-12f5c6658fb5.jpg)
 
-![17 6](https://user-images.githubusercontent.com/117534483/222612571-d32866d5-ff4d-45f8-aeb4-96d0a708a2cb.png)
+![17 6](https://user-images.githubusercontent.com/117534483/222614292-16fff9ba-b342-4868-b9d9-d932fd772e76.jpg)
 
-![17 7](https://user-images.githubusercontent.com/117534483/222612573-28496b4e-d7d3-41a2-878c-2ae56897937e.png)
+![17 7](https://user-images.githubusercontent.com/117534483/222614293-410b13b5-ac45-4607-a34c-9dec6d475c9f.jpg)
 
-![17 8](https://user-images.githubusercontent.com/117534483/222612574-61ccbde5-d94d-4d76-8456-8a22f6582434.png)
+![17 8](https://user-images.githubusercontent.com/117534483/222614295-80c69bf1-b073-469e-a92d-4b15e54677a4.jpg)
 
-![17 9](https://user-images.githubusercontent.com/117534483/222612577-7911998c-f670-468c-924b-b21fafeec7dd.png)
+![17 9](https://user-images.githubusercontent.com/117534483/222614296-eed438ad-97f8-492d-ba04-dd78c1318637.jpg)
 
-![17 10](https://user-images.githubusercontent.com/117534483/222612579-92fed741-0248-4df9-bda3-ab0e79887ea5.png)
-
-![17 11](https://user-images.githubusercontent.com/117534483/222612582-7de17dd4-5b69-467d-8acc-392bc36917f9.png)
+![17 10](https://user-images.githubusercontent.com/117534483/222614298-9c0fb8e2-309c-40b2-af4e-0b3f891a41a6.jpg)
 
 # CAPITULO 18 : -Ejercicios pares
 
-![18 1](https://user-images.githubusercontent.com/117534483/222612648-88a2093b-f8c0-4b0e-9f89-3d3233d1a53e.png)
+![18 1](https://user-images.githubusercontent.com/117534483/222614353-a4560af0-76ee-4a9c-bcb4-74d14e21dd36.jpg)
 
-![18 2](https://user-images.githubusercontent.com/117534483/222612651-fe501f32-dbae-478e-80f7-0e2058344a75.png)
+![18 2](https://user-images.githubusercontent.com/117534483/222614356-0b7c818e-bba3-4d5c-9cd5-fe30d4d83c97.jpg)
 
-![18 3](https://user-images.githubusercontent.com/117534483/222612653-e5cc7658-d190-4c4c-b529-f4de52c511c4.png)
+![18 3](https://user-images.githubusercontent.com/117534483/222614358-e2d2f2e8-69b8-43ef-a8e0-f761e35fedd6.jpg)
 
-![18 4](https://user-images.githubusercontent.com/117534483/222612654-3fbef394-1684-4d55-b7af-0ef554b4a40a.png)
+![18 4](https://user-images.githubusercontent.com/117534483/222614359-375012ed-7fd5-47d9-9dc8-56fcf1ea6a7a.jpg)
 
-![18 5](https://user-images.githubusercontent.com/117534483/222612655-5c41fed3-9cfd-43b4-8138-dcd0fe117041.png)
+![18 5](https://user-images.githubusercontent.com/117534483/222614360-cfcf059c-a87f-4af8-8340-5af80e1e5511.jpg)
 
-![18 6](https://user-images.githubusercontent.com/117534483/222612657-0139ff02-aa58-4fdf-9167-b3395c5d098c.png)
+![18 6](https://user-images.githubusercontent.com/117534483/222614361-f438d510-d4f6-4d3e-b01c-369214c45201.jpg)
 
-![18 7](https://user-images.githubusercontent.com/117534483/222612659-1b988b27-509d-4a49-960c-836cea69a5b3.png)
+![18 7](https://user-images.githubusercontent.com/117534483/222614363-2f2dc2c2-1c34-41b0-bef8-f83f9bcc9533.jpg)
 
-![18 8](https://user-images.githubusercontent.com/117534483/222612662-e94f8ea2-f5fe-409b-88c7-4ae76c24d73b.png)
-
-![18 9](https://user-images.githubusercontent.com/117534483/222612663-78b54ad8-b27f-4e6e-976d-8398042fd835.png)
-
-![18 10](https://user-images.githubusercontent.com/117534483/222612665-2c518312-6685-408e-a774-5e0b2e71dc69.png)
-
+![18 8](https://user-images.githubusercontent.com/117534483/222614364-03332065-0f5f-43bb-a237-225293927247.jpg)
 
 # 4.VIDEO
 
